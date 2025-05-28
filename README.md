@@ -1,6 +1,6 @@
 # 🌀 Maze Explorer - 3D PyOpenGL Shooting Game
 
-Maze Explorer is a 3D shooting game built using Python and PyOpenGL, where players navigate procedurally generated mazes, eliminate enemies, and aim to reach the exit to win. The game features both third-person and first-person perspectives, environmental details like trees and bushes, and interactive UI elements.
+This is my 423 Project. Maze Explorer is a 3D shooting game built using Python and PyOpenGL, where players navigate procedurally generated mazes, eliminate enemies, and aim to reach the exit to win. The game features both third-person and first-person perspectives, environmental details like trees and bushes, and interactive UI elements.
 
 ---
 
